@@ -48,5 +48,8 @@
     "start": "NODE_ENV=prod node dist/app.js",
     "prod:start": "npm-run-all build start",
     "deploy:heroku": "bash deploy-heroku.sh"
+  },
+  "engines": {
+    "node": "12.18.3"
   }
 }
