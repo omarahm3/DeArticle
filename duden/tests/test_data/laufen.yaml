@@ -1,0 +1,234 @@
+name: laufen
+urlname: laufen
+title: laufen
+article: null
+part_of_speech: starkes Verb
+usage: null
+frequency: 4
+word_separation:
+- lau
+- fen
+meaning_overview:
+- - sich in aufrechter Haltung auf den Füßen in schnellerem Tempo so fortbewegen,
+    dass sich jeweils schrittweise für einen kurzen Augenblick beide Sohlen vom Boden
+    lösen
+  - gehen (1)
+  - zu Fuß gehen
+  - die Fähigkeit haben, sich auf den Beinen gehend fortzubewegen
+  - beim Laufen (1a,  b) an, gegen etwas geraten, stoßen
+  - (von bestimmten Tieren) sich [schnell, flink] fortbewegen
+- eine bestimmte Strecke gehend zurücklegen
+- - sich durch Laufen in einen bestimmten Zustand versetzen
+  - durch Laufen etwas, einen bestimmten Körperteil in einen bestimmten Zustand versetzen
+  - '[unter bestimmten Umständen] in bestimmter Weise gehen (1) können'
+- sich ständig [aus Gewohnheit] irgendwohin begeben
+- - an einem Laufwettbewerb, Rennen teilnehmen
+  - in einem sportlichen Wettbewerb, Rennen als Läufer eine bestimmte Zeit erzielen,
+    erreichen
+  - in einem sportlichen Wettbewerb eine bestimmte Strecke zurücklegen
+  - sich unter bestimmten Umständen, in bestimmter Weise als Läufer betätigen
+- - die Fähigkeit haben, sich mit einem an den Füßen befestigten Sportgerät fortzubewegen
+  - sich auf einem an den Füßen befestigten Sportgerät fortbewegen
+- - in Gang, in Betrieb sein
+  - sich [gleichmäßig, gleitend] durch, über, um etwas bewegen
+- fahren (1a)
+- - fließen
+  - Wasser, Flüssigkeit austreten, ausfließen lassen
+- sich in bestimmter Richtung erstrecken; in bestimmter Richtung verlaufen
+- - '[in bestimmter Weise] vor sich gehen, vonstattengehen, verlaufen'
+  - eingeleitet, aber nicht abgeschlossen oder entschieden sein
+- Gültigkeit haben; wirksam sein
+- in einer Kartei o. Ä. geführt, registriert, festgehalten sein
+- programmgemäß vorgeführt, dargeboten, ausgestrahlt werden
+- sich günstig entwickeln
+origin: mittelhochdeutsch loufen, althochdeutsch (h)louf(f)an, wahrscheinlich ursprünglich
+  = (im Kreise) hüpfen, tanzen
+compounds:
+  adjektive:
+  - dumm
+  - glatt
+  - gut
+  - optimal
+  - parallel
+  - reibungslos
+  - rot
+  - schief
+  substantive:
+  - Amok
+  - Gefahr
+  - Geschäft
+  - Hochtour
+  - Ruder
+  - Vertrag
+  - Vorbereitung
+grammar_raw:
+- - - Indikativ
+    - Person I
+    - Präsens
+    - Singular
+  - ich laufe
+- - - Konjunktiv I
+    - Person I
+    - Präsens
+    - Singular
+  - ich laufe
+- - - Imperativ
+    - Person I
+    - Präsens
+    - Singular
+  - –
+- - - Indikativ
+    - Person II
+    - Präsens
+    - Singular
+  - du läufst
+- - - Konjunktiv I
+    - Person II
+    - Präsens
+    - Singular
+  - du laufest
+- - - Imperativ
+    - Person II
+    - Präsens
+    - Singular
+  - lauf, laufe!
+- - - Indikativ
+    - Person III
+    - Präsens
+    - Singular
+  - er/sie/es läuft
+- - - Konjunktiv I
+    - Person III
+    - Präsens
+    - Singular
+  - er/sie/es laufe
+- - - Imperativ
+    - Person III
+    - Präsens
+    - Singular
+  - –
+- - - Indikativ
+    - Person I
+    - Plural
+    - Präsens
+  - wir laufen
+- - - Konjunktiv I
+    - Person I
+    - Plural
+    - Präsens
+  - wir laufen
+- - - Imperativ
+    - Person I
+    - Plural
+    - Präsens
+  - –
+- - - Indikativ
+    - Person II
+    - Plural
+    - Präsens
+  - ihr lauft
+- - - Konjunktiv I
+    - Person II
+    - Plural
+    - Präsens
+  - ihr laufet
+- - - Imperativ
+    - Person II
+    - Plural
+    - Präsens
+  - lauft!
+- - - Indikativ
+    - Person III
+    - Plural
+    - Präsens
+  - sie laufen
+- - - Konjunktiv I
+    - Person III
+    - Plural
+    - Präsens
+  - sie laufen
+- - - Imperativ
+    - Person III
+    - Plural
+    - Präsens
+  - –
+- - - Indikativ
+    - Person I
+    - Präteritum
+    - Singular
+  - ich lief
+- - - Konjunktiv II
+    - Person I
+    - Präteritum
+    - Singular
+  - ich liefe
+- - - Indikativ
+    - Person II
+    - Präteritum
+    - Singular
+  - du liefst
+- - - Konjunktiv II
+    - Person II
+    - Präteritum
+    - Singular
+  - du liefest
+- - - Indikativ
+    - Person III
+    - Präteritum
+    - Singular
+  - er/sie/es lief
+- - - Konjunktiv II
+    - Person III
+    - Präteritum
+    - Singular
+  - er/sie/es liefe
+- - - Indikativ
+    - Person I
+    - Plural
+    - Präteritum
+  - wir liefen
+- - - Konjunktiv II
+    - Person I
+    - Plural
+    - Präteritum
+  - wir liefen
+- - - Indikativ
+    - Person II
+    - Plural
+    - Präteritum
+  - ihr lieft
+- - - Konjunktiv II
+    - Person II
+    - Plural
+    - Präteritum
+  - ihr liefet
+- - - Indikativ
+    - Person III
+    - Plural
+    - Präteritum
+  - sie liefen
+- - - Konjunktiv II
+    - Person III
+    - Plural
+    - Präteritum
+  - sie liefen
+- - - Partizip I
+  - laufend
+- - - Partizip II
+  - gelaufen
+- - - Infinitiv mit zu
+  - zu laufen
+synonyms:
+- eilen, fegen, hetzen
+words_before:
+- Laufbekleidung
+- Laufbrett
+- Laufbursche
+- Läufchen
+- Läufel
+words_after:
+- laufend
+- laufen lassen, laufenlassen
+- Laufer
+- Läufer
+- Lauferei

@@ -1,0 +1,60 @@
+name: einfach
+urlname: einfach_einmal_simpel
+title: einfach
+article: null
+part_of_speech: Adjektiv
+usage: null
+frequency: null
+word_separation:
+- ein
+- fach
+meaning_overview:
+- nur einmal gemacht, gefertigt; nicht doppelt oder mehrfach
+- - leicht verständlich, durchführbar; ohne Mühe lösbar; unkompliziert, nicht schwierig
+  - leicht einsehbar; einleuchtend, eindeutig
+- keinen großen Aufwand, Luxus treibend oder aufweisend; ohne große Ansprüche auftretend;
+  schlicht, bescheiden
+origin: spätmittelhochdeutsch einfach, -fach
+compounds:
+  adjektive:
+  - billig
+  - doppelt
+  - geometrisch
+  - klar
+  - kostengünstig
+  - preiswert
+  - schnell
+  - verständlich
+  substantive:
+  - Antwort
+  - Erklärung
+  - Formel
+  - Grund
+  - Lösung
+  - Mehrheit
+  - Mittel
+  - Verhältnis
+  verben:
+  - bewerben
+  - fehlen
+  - gehören
+  - haben
+  - lassen
+  - passen
+  - stimmen
+  - werden
+grammar_raw: null
+synonyms:
+- einmal, nicht doppelt, nicht mehrfachbequem
+words_before:
+- Eineuromünze, Ein-Euro-Münze
+- Eineurostück, Ein-Euro-Stück
+- Eine-Welt-Laden
+- einexerzieren
+- einfach
+words_after:
+- einfächerig
+- einfächern
+- Einfaches
+- einfachgesetzlich
+- Einfachheit

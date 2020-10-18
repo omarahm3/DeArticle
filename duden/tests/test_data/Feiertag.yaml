@@ -1,0 +1,82 @@
+name: Feiertag
+urlname: Feiertag
+title: Feiertag, der
+article: der
+part_of_speech: Substantiv, maskulin
+usage: null
+frequency: null
+word_separation:
+- Fei
+- er
+- tag
+meaning_overview:
+- jährlich wiederkehrender Gedenktag [an dem nicht gearbeitet wird]
+- Tag, an dem jemand etwas besonders Schönes erlebt
+origin: mittelhochdeutsch vīretac, althochdeutsch fīratag
+compounds:
+  adjektive:
+  - allgemein
+  - arbeitsfrei
+  - christlich
+  - gesetzlich
+  - hoch
+  - jüdisch
+  - kirchlich
+  - national
+  substantive:
+  - Fest
+  - Freitag
+  - Geburtstag
+  - Samstag
+  - Sonnabend
+  - Sonntag
+  - Urlaub
+  - Wochenende
+  verben:
+  - abschaffen
+  - ausnehmen
+  - begehen
+  - bleiben
+  - erklären
+  - schließen
+  - verbringen
+  - öffnen
+grammar_raw:
+- - - Nominativ
+    - Singular
+  - der Feiertag
+- - - Nominativ
+    - Plural
+  - die Feiertage
+- - - Genitiv
+    - Singular
+  - des Feiertages, Feiertags
+- - - Genitiv
+    - Plural
+  - der Feiertage
+- - - Dativ
+    - Singular
+  - dem Feiertag
+- - - Dativ
+    - Plural
+  - den Feiertagen
+- - - Akkusativ
+    - Singular
+  - den Feiertag
+- - - Akkusativ
+    - Plural
+  - die Feiertage
+synonyms:
+- Festtag, GedenktagEhrentag
+words_before:
+- feierlich
+- Feierlichkeit
+- feiern
+- Feierschicht
+- Feierstunde
+words_after:
+- feiertäglich
+- feiertags
+- Feiertagsarbeit
+- Feiertagsruhe
+- Feiertagsstille

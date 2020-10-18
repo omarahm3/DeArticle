@@ -1,0 +1,56 @@
+name: Petersilie
+urlname: Petersilie
+title: Petersilie, die
+article: die
+part_of_speech: Substantiv, feminin
+usage: null
+frequency: 2
+word_separation:
+- Pe
+- ter
+- si
+- lie
+meaning_overview: zum Würzen und Garnieren von Speisen verwendete Pflanze mit dunkelgrünen,
+  glatten oder krausen, mehrfach gefiederten Blättern und schlanker Pfahlwurzel
+origin: mittelhochdeutsch pētersil(je), althochdeutsch petersilie, petrasile < mittellateinisch
+  petrosilium < lateinisch petroselinon < griechisch petrosélinon = Felsen-, Steineppich
+compounds: null
+grammar_raw:
+- - - Nominativ
+    - Singular
+  - die Petersilie
+- - - Nominativ
+    - Plural
+  - die Petersilien
+- - - Genitiv
+    - Singular
+  - der Petersilie
+- - - Genitiv
+    - Plural
+  - der Petersilien
+- - - Dativ
+    - Singular
+  - der Petersilie
+- - - Dativ
+    - Plural
+  - den Petersilien
+- - - Akkusativ
+    - Singular
+  - die Petersilie
+- - - Akkusativ
+    - Plural
+  - die Petersilien
+synonyms:
+- (schweizerisch) Peterli; (bayrisch, österreichisch umgangssprachlich) Petersil
+words_before:
+- Peter-Paul-Kirche
+- Petersburg
+- Petersdom
+- Petersfisch
+- Petersil
+words_after:
+- Petersilienhochzeit
+- Petersilienkartoffeln
+- Petersiliensoße
+- Petersilienwurzel
+- Peterskirche

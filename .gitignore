@@ -1,0 +1,13 @@
+dist
+types
+nodemone.json
+yarn-error.log
+node_modules
+
+duden/__pycache__
+duden/*.lock
+duden/*.mo
+duden/.pytest_cache
+duden/duden.egg-info/
+duden/build/
+duden/dist/

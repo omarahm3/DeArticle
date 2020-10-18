@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <%- include('../partials/head'); %>
+</head>
+
+<body class="container">
+
+  <main>
+    <div class="jumbotron">
+      <h1>Type a German word</h1>
+
+      <div class="alert alert-danger" role="alert" id="error-message" style="display: none;"></div>
+      <div class="alert alert-success" role="alert" id="success-message" style="display: none; text-align: center;"></div>
+
+      <form>
+        <div class="form-group">
+          <input class="form-control form-control-lg" type="text" id="word" name="word" placeholder="Haus" onkeypress="hideMessages(event)">
+          <small id="word" class="form-text text-muted">Type any german word</small>
+        </div>
+        <button type="submit" id="submit" class="btn btn-primary btn-lg btn-block" onclick="getArticle(event)">Get article</button>
+      </form>
+    </div>
+  </main>
+
+  <footer>
+    <%- include('../partials/footer'); %>
+  </footer>
+
+  <script>
+    const error         = document.getElementById('error-message');
+    const success       = document.getElementById('success-message');
+    const submitButton  = document.getElementById('submit');
+
+    function renderError(message) {
+      error.style.display = 'block'
+      error.innerHTML = message
+    }
+
+    function renderSuccess(message) {
+      success.style.display = 'block'
+      success.innerHTML = message
+    }
+
+    function getArticle(e) {
+      e.preventDefault()
+      submitButton.disabled = true
+      const word = document.getElementById('word').value;      
+      if (!word || word === '') {
+        renderError('You must type a word first...')
+        submitButton.disabled = false
+        return console.log('Word cannot be empty')
+      }
+
+      fetch('/translate', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json;charset=utf-8'
+        },
+        body: JSON.stringify({
+          word
+        })
+      })
+      .then(response => response.json())
+      .then(res => {
+        submitButton.disabled = false
+        if (res.success) {
+          renderSuccess(res.article)
+        } else {
+          renderError(res.message)
+        }
+      })
+    }
+
+    function hideMessages(e) {
+      error.style.display = 'none'
+      success.style.display = 'none'
+    }
+  </script>
+</body>
+
+</html>

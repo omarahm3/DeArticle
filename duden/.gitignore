@@ -1,0 +1,7 @@
+__pycache__
+*.lock
+*.mo
+.pytest_cache
+duden.egg-info/
+/build/
+/dist/
